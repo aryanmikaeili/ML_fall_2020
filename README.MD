@@ -1,0 +1,1 @@
+This is a repository containing the content I created for the Machine learning course (CE712) in Fall 2020. the content covers summaries, interactive code and tutorials for the Kmeans algorithm, Guassian mixture models, and the EM algorithm.
